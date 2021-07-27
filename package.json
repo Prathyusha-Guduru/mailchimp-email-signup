@@ -1,0 +1,22 @@
+{
+  "name": "mailchimp-email-signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prathyusha-Guduru/mailchimp-email-signup.git"
+  },
+  "author": "Prathyusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prathyusha-Guduru/mailchimp-email-signup/issues"
+  },
+  "homepage": "https://github.com/Prathyusha-Guduru/mailchimp-email-signup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
